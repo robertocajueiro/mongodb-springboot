@@ -1,5 +1,5 @@
 spring:
   data:
     mongodb:
-      uri : mongodb+srv://admin:admin@javatech.3353xjg.mongodb.net/?retryWrites=true&w=majority
+      uri : url_mongodb
       database : Task
